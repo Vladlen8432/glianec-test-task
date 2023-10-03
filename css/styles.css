@@ -1,0 +1,15 @@
+:root {
+  --background-color: #fffefb;
+  --text-color: #333;
+  --yellow-rrow-button: #ffe30b;
+}
+
+body {
+  background-color: var(--background-color);
+  font-family: 'Montserrat', sans-serif;
+  color: var(--text-color);
+}
+
+button {
+    cursor: pointer;
+}
